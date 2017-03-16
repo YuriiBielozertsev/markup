@@ -1,0 +1,8 @@
+@media only screen and (max-width:960px){
+    .footer-copyright{
+        font-size: 12px;
+    }
+    .footer-nav-link{
+        font-size: 12px;
+    }
+}
